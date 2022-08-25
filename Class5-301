@@ -29,21 +29,20 @@ Can you compute it based on any other state or props in your component? If so, i
 * Either the common owner or another component higher up in the hierarchy should own the state.
 * If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
-# Higher-Order Functions
+## Higher-Order Functions
 
 ## What is a “higher-order function”?
 
-Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions. 
+Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions
 
 ## Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 
 it make function inside function to compare between them
 
-## Explain how either map or reduce operates, with regards to higher-order functions.
+## Explain how either map or reduce operates, with regards to higher-order functions
 
 It builds a value by repeatedly taking a single element from the array and combining it with the current value. When summing numbers
 
 ## Things I want to know more about
-i need to know about 
 
-Higher-Order Functions
+i need to know about Higher-Order Functions
