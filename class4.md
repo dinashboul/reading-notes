@@ -5,10 +5,9 @@ the input's value is always driven by the React state. While this means you have
 
 form elements such as input, textarea, and select typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
 
-## Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
+## Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why
 
 The state is kept in sync with the input’s value, meaning that changing the input will update the state, and updating the state will change the input.
-
 
 ## How do we target what the user is entering if we have an event handler on an input field?
 
