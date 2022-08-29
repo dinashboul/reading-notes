@@ -21,5 +21,7 @@
  [Class 5-301](./Class5-301)
 
  [Class 6-301](./Class6-301)
+ 
+ [Class7-301](./Class7-301.md)
 
 #### Code 401 - Advanced Software Development

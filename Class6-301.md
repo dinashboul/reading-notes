@@ -49,3 +49,4 @@ In reality, when two people focus on the same code base, it is easier to catch m
 ## How does pair programming work?
 
  developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
+ 
