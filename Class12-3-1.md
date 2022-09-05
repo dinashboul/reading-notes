@@ -61,3 +61,8 @@ is a generic error response. It means that the server encountered an unexpected 
 ## What is the difference between a status 200 and a status 201?
 200 OK - It’s the basic status code to tell the client everything went good.
 201 Created - The most fitting for Create operations.
+
+## Things I want to know more about
+
+Mongoose
+MongoDB
