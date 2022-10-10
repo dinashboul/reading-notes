@@ -44,5 +44,6 @@
   [Class-03](./code-401-python/class-03/class--03.md)
 
  
-  [Class-04](./code-401-python/class-04//class-04.md)
+  [Class-04](./code-401-python/class-04/class-04.md)
 
+  [Class-05](./code-401-python/class-05/class05.md)
