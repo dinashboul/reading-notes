@@ -47,3 +47,5 @@
   [Class-04](./code-401-python/class-04/class-04.md)
 
   [Class-05](./code-401-python/class-05/class05.md)
+
+ [Class-06](./code-401-python/class-06/class-06.md)
