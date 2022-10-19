@@ -53,3 +53,5 @@
  [Class-07](./code-401-python/class-07/class-07.md)
 
  [Class-09](./code-401-python/class-09/class-09.md)
+
+[Class-08](./code-401-python/code-08/code-08.md)
