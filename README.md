@@ -85,6 +85,9 @@
 
 [Class-25](./code-401-python/class-25/class-25.md)
 
-[Class-25](./code-401-python/class-26/class-26/class-26.md)
+[Class-26](./code-401-python/class-26/class-26/class-26.md)
+
+[Class-27](./code-401-python/class-27/class-27.md)
+
 
 
