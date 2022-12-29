@@ -95,5 +95,8 @@
 
 [Class-31](./code-401-python/class-31/class-31.md)
 
+[Class-32](./code-401-python/class-32/class-32.md)
+
+
 
 
