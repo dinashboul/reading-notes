@@ -101,6 +101,9 @@
 
 [Class-34](./code-401-python/class-34/class-34.md)
 
+[Class-35](./code-401-python/class-35/class-35.md)
+
+
 
 
 
