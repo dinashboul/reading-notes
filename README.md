@@ -103,6 +103,8 @@
 
 [Class-35](./code-401-python/class-35/class-35.md)
 
+[Class-36](./code-401-python/class-36/class-36.md)
+
 
 
 
